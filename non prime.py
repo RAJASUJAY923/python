@@ -12,4 +12,4 @@ if res!="":
 else:
     print("there is no prime number")
 
-             # This code checks if a number is prime or not. It takes an integer input from the user and checks if it is prime by dividing it with all numbers less than itself. If it is divisible by any of those numbers, it is not prime.
+            
